@@ -44,5 +44,13 @@ module.exports = {
       directory: path.join(__dirname, 'dist'),
     },
     port: 3000,
+    open: true,
+      host: "0.0.0.0",
+      allowedHosts: "all",
+      hot: true,
+      historyApiFallback: true,
+      compress: true,
+      client: {
+        webSocketURL: "auto://0.0.0.0:0/ws",
   },
 };
