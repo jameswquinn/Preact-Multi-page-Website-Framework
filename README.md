@@ -19,8 +19,9 @@ This project is a lightweight, multi-page website framework built with Preact an
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/preact-multipage-framework.git
-   cd preact-multipage-framework
+   git clone https://github.com/jameswquinn/Preact-Multi-page-Website-Framework.git
+   cd Preact-Multi-page-Website-Framework
+   
    ```
 
 2. Install dependencies:
