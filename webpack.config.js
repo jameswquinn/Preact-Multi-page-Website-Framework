@@ -52,5 +52,8 @@ module.exports = {
       compress: true,
       client: {
         webSocketURL: "auto://0.0.0.0:0/ws",
-  },
+  },      
+    headers: {
+        "Access-Control-Allow-Origin": "*",
+      },
 };
