@@ -1,4 +1,3 @@
-import { h } from 'preact';
 import { Router } from 'preact-router';
 import { lazy, Suspense } from 'preact/compat';
 import { Header } from './components/Header.jsx';
